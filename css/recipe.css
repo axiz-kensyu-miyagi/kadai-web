@@ -1,0 +1,61 @@
+body {
+  background-image: url(../images/bg_Argyle.jpg);
+}
+
+
+ /* index.html */
+.abc {
+  text-align: center;
+} 
+
+
+
+  /* curry.html */
+.aaa {
+  text-align: center;
+}
+
+.aba {
+  border: double 10px #FF0000;
+}
+
+.bbb {
+  background-color: bisque;
+  border: solid 2px #FF0000;
+}
+
+.c {
+  color: red;
+}
+
+.ccc {
+  display: inline-block;
+  width: 750px;
+  vertical-align: top;
+}
+
+
+
+  /* form.html */
+.qform {
+  text-align: center;
+}
+
+.iform {
+  background-color: white;
+  border: solid 1px pink;
+  margin-left: 450px;
+  margin-right: 450px;
+  border-top-left-radius: 30px;
+  border-top-right-radius: 30px;
+  border-bottom-right-radius: 30px;
+  border-bottom-left-radius: 30px;
+}
+
+label {
+  border: solid 1px black; 
+  background-color: white;    /* 背景色 */
+  border-radius: 9px;         /* 枠線の角丸 */
+  padding: 2px 6px 2px 2px;   /* 内側の余白 */
+  margin-bottom: 4px;         /* 外下の余白 */
+}

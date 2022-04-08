@@ -1,0 +1,65 @@
+  body {
+    background-color: rgba(50, 200, 255, 30%);
+  }
+
+  .title {
+      color:green;
+      text-size: 30px;
+      text-align: center;
+      border-bottom: solid 2px blue;
+  }
+
+  .aform {
+    background-color: white;
+    margin-left: 35%;
+    margin-right: 35%;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+  }
+
+  #top {
+    font-size: small;
+  }
+
+  .pint {
+    color:white;
+    background-color: red;
+    border-radius: 5px;
+  }
+
+  .undertitle {
+    text-size: 15px;
+    text-align: center;
+    border-top: solid 2px blue;
+}
+.place {
+  font-size: 30px;
+}
+
+.waku {
+  width:95%;
+  box-sizing: border-box;
+  border-radius: 5px;
+  padding: 3px;
+}
+
+.waku1 {
+  width: 15%;
+  border-radius: 5px;
+  padding: 5px;
+
+}
+
+.waku2 {
+  width:95%;
+  height: 10%;
+  box-sizing: border-box;
+  border-radius: 5px;
+}
+
+.waku3 {
+  border-radius: 5px;
+  padding: 5px;
+}
